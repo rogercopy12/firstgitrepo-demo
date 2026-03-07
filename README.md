@@ -1,4 +1,4 @@
 # firstgitrepo-demo
 My first github repository
-rogercopy
+rogercopy\n
 hello world!
